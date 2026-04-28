@@ -122,7 +122,7 @@ export default function Hero() {
       {/* Desktop hero visual — right side */}
       <div className="absolute right-0 top-0 bottom-0 hidden xl:flex items-center justify-end pr-12 pointer-events-none" aria-hidden="true">
         <div
-          className="relative w-[440px] h-[480px] rounded-2xl"
+          className="relative w-[440px] h-[530px] rounded-2xl"
           style={{
             background: "rgba(255,255,255,0.025)",
             border: "1px solid rgba(139,92,246,0.15)",
