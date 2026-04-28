@@ -5,11 +5,11 @@ export const siteConfig = {
     phoneHref: "tel:3237818600",
     email: "steve@adaptiveautomate.com",
     emailHref: "mailto:steve@adaptiveautomate.com",
-    address: "7238 Enfield Avenue, Reseda CA 91335",
+    address: "15301 Ventura Blvd., Sherman Oaks, CA 91403",
   },
   cta: {
-    label: "Book a Free Strategy Call",
-    href: "https://go.adaptiveautomate.com/widget/bookings/steve-adams-personal-calendar-xpdair3k3",
+    label: "Book a Free Discovery Call",
+    href: "https://go.adaptiveautomate.com/widget/booking/Q33XlmpJLqwQSZeLdJJb",
   },
   nav: [
     { label: "Services", href: "#services" },
@@ -18,13 +18,12 @@ export const siteConfig = {
     { label: "FAQ", href: "#faq" },
   ],
   meta: {
-    title: "Adaptive Automations | Automation-Driven Marketing for Local Businesses",
+    title: "Adaptive Automations | AI-Powered Growth Platform for Los Angeles Businesses",
     description:
-      "Adaptive Automations builds the connected lead systems that capture, follow up, and convert — turning traffic into booked appointments for high-ticket local service businesses.",
-    ogImage: "/og-image.png",
+      "We help Los Angeles businesses get 30–50 qualified leads per month using Voice AI, reputation management, SEO, and intelligent automation. Claim your free demo today.",
+    ogImage: "/adaptive-logo.png",
   },
 
-  // Swap these with real testimonials when available
   testimonials: [
     {
       quote:
